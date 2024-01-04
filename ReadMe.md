@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on software development<br>👯 I’m looking to collaborate on cyber security<br>🤝 I’m looking for help with graphic designing<br>🌱 I’m currently learning ruby<br>💬 Ask me about anything<br>⚡ Fun fact ERROR 503 Under Maintenance
+🔭 I’m currently working on cyber security<br>👯 I’m looking to collaborate on cyber security<br>🤝 I’m looking for help with graphic designing<br>🌱 I’m currently learning ruby<br>💬 Ask me about anything<br>⚡ Fun fact ERROR 503 Under Maintenance
 
 <br clear="both">
 
